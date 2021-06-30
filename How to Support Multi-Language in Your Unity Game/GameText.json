@@ -1,0 +1,362 @@
+﻿{
+  "EMPTY_STRING": {
+    "ENGLISH": "",
+    "CHINESE": ""
+  },
+  "LANGUAGE": {
+    "ENGLISH": "Language",
+    "CHINESE": "语言"
+  },
+  "SCREEN_MODE": {
+    "ENGLISH": "Screen Mode",
+    "CHINESE": "屏幕模式"
+  },
+  "RESOLUTION": {
+    "ENGLISH": "Resolution",
+    "CHINESE": "分辨率"
+  },
+  "VSYNC": {
+    "ENGLISH": "VSync",
+    "CHINESE": "垂直同步"
+  },
+  "GRAPHIC_QUALITY": {
+    "ENGLISH": "Graphic Quality",
+    "CHINESE": "图形质量"
+  },
+  "ENGLISH": {
+    "ENGLISH": "English",
+    "CHINESE": "英语"
+  },
+  "CHINESE": {
+    "ENGLISH": "Chinese",
+    "CHINESE": "中文"
+  },
+  "START_GAME": {
+    "ENGLISH": "Start Game",
+    "CHINESE": "开始游戏"
+  },
+  "LOAD_GAME": {
+    "ENGLISH": "Load Game",
+    "CHINESE": "加载进度"
+  },
+  "SAVE_GAME": {
+    "ENGLISH": "Save Game",
+    "CHINESE": "保存进度"
+  },
+  "SETTINGS": {
+    "ENGLISH": "Settings",
+    "CHINESE": "游戏设置"
+  },
+  "EXIT": {
+    "ENGLISH": "Exit",
+    "CHINESE": "退出"
+  },
+  "GRAPHIC_QUALITY_VERY_LOW": {
+    "ENGLISH": "Very Low",
+    "CHINESE": "极低"
+  },
+  "GRAPHIC_QUALITY_LOW": {
+    "ENGLISH": "Low",
+    "CHINESE": "低"
+  },
+  "GRAPHIC_QUALITY_MEDIUM": {
+    "ENGLISH": "Medium",
+    "CHINESE": "中等"
+  },
+  "GRAPHIC_QUALITY_HIGH": {
+    "ENGLISH": "High",
+    "CHINESE": "高"
+  },
+  "GRAPHIC_QUALITY_VERY_HIGH": {
+    "ENGLISH": "Very High",
+    "CHINESE": "极高"
+  },
+  "GRAPHIC_QUALITY_ULTRA": {
+    "ENGLISH": "Ultra",
+    "CHINESE": "完美"
+  },
+  "RESOLUTION_1920_1080": {
+    "ENGLISH": "1920x1080",
+    "CHINESE": "1920x1080"
+  },
+  "RESOLUTION_3840_2160": {
+    "ENGLISH": "3840x2160",
+    "CHINESE": "3840x2160"
+  },
+  "SCREEN_MODE_WINDOW": {
+    "ENGLISH": "Window",
+    "CHINESE": "窗口"
+  },
+  "SCREEN_MODE_FULL_SCREEN": {
+    "ENGLISH": "Full Screen",
+    "CHINESE": "全屏"
+  },
+  "ON": {
+    "ENGLISH": "On",
+    "CHINESE": "开启"
+  },
+  "OFF": {
+    "ENGLISH": "Off",
+    "CHINESE": "关闭"
+  },
+  "GO_BACK": {
+    "ENGLISH": "Go Back",
+    "CHINESE": "返回"
+  },
+  "RESET_DEFAULT": {
+    "ENGLISH": "Reset",
+    "CHINESE": "重置"
+  },
+  "CONTINUE_GAME": {
+    "ENGLISH": "Continue",
+    "CHINESE": "继续游戏"
+  },
+  "BACK_TO_MAIN": {
+    "ENGLISH": "Main Menu",
+    "CHINESE": "返回主界面"
+  },
+  "EMPTY": {
+    "ENGLISH": "Empty",
+    "CHINESE": "空存档"
+  },
+  "AUTO_SAVE": {
+    "ENGLISH": "Auto Save",
+    "CHINESE": "自动保存"
+  },
+  "MANUAL_SAVE": {
+    "ENGLISH": "Manual Save",
+    "CHINESE": "手动保存"
+  },
+  "LOADING": {
+    "ENGLISH": "Loading...",
+    "CHINESE": "正在加载..."
+  },
+  "ROOM_LIST": {
+    "ENGLISH": "Room List",
+    "CHINESE": "房间列表"
+  },
+  "WORKING_ROOM": {
+    "ENGLISH": "Working Room",
+    "CHINESE": "办公室"
+  },
+  "MEETING_ROOM": {
+    "ENGLISH": "Meeting Room",
+    "CHINESE": "会议室"
+  },
+  "UTILITY_ROOM": {
+    "ENGLISH": "Utility Room",
+    "CHINESE": "杂物间"
+  },
+  "LOUNGE_ROOM": {
+    "ENGLISH": "Lounge Room",
+    "CHINESE": "休息室"
+  },
+  "WINDOW": {
+    "ENGLISH": "Window",
+    "CHINESE": "窗户"
+  },
+  "DOOR": {
+    "ENGLISH": "Door",
+    "CHINESE": "门"
+  },
+  "SMALL_TABLE": {
+    "ENGLISH": "Small Table",
+    "CHINESE": "小办公桌"
+  },
+  "MIDDLE_TABLE": {
+    "ENGLISH": "Middle Table",
+    "CHINESE": "中办公桌"
+  },
+  "LARGE_TABLE": {
+    "ENGLISH": "Large Table",
+    "CHINESE": "大办公桌"
+  },
+  "BOOKCASE": {
+    "ENGLISH": "Bookcase",
+    "CHINESE": "书柜"
+  },
+  "SMALL_BOOKCASE": {
+    "ENGLISH": "Book Shelf",
+    "CHINESE": "书架"
+  },
+  "WATER_DRINK": {
+    "ENGLISH": "Water Drink",
+    "CHINESE": "饮水机"
+  },
+  "CABINET": {
+    "ENGLISH": "Cabinet",
+    "CHINESE": "小柜子"
+  },
+  "RUSTBIN": {
+    "ENGLISH": "Rustbin",
+    "CHINESE": "垃圾桶"
+  },
+  "SMALL_PLANT": {
+    "ENGLISH": "Small Plant",
+    "CHINESE": "小盆栽"
+  },
+  "MIDDLE_PLANT": {
+    "ENGLISH": "Middle Plant",
+    "CHINESE": "中盆栽"
+  },
+  "LARGE_PLANT": {
+    "ENGLISH": "Large Plant",
+    "CHINESE": "大盆栽"
+  },
+  "MEETING_TABLE": {
+    "ENGLISH": "Meeting Table",
+    "CHINESE": "会议桌"
+  },
+  "LOW_CABINET": {
+    "ENGLISH": "Low Cabinet",
+    "CHINESE": "矮柜子"
+  },
+  "UTILITY_TABLE": {
+    "ENGLISH": "Utility Table",
+    "CHINESE": "杂物桌"
+  },
+  "NEWSPAPER_BOX": {
+    "ENGLISH": "Paper Box",
+    "CHINESE": "纸盒"
+  },
+  "BOOKS_BOX": {
+    "ENGLISH": "Books Box",
+    "CHINESE": "书盒"
+  },
+  "TEA_BREAK": {
+    "ENGLISH": "Tea Break",
+    "CHINESE": "茶歇"
+  },
+  "REST_CHAIR": {
+    "ENGLISH": "Rest Chair",
+    "CHINESE": "休息椅"
+  },
+  "FRIDGE": {
+    "ENGLISH": "FRIDGE",
+    "CHINESE": "冰箱"
+  },
+  "TV": {
+    "ENGLISH": "TV",
+    "CHINESE": "电视"
+  },
+  "BLACKBOARD": {
+    "ENGLISH": "Blackboard",
+    "CHINESE": "黑板"
+  },
+  "FURNITURE_LIST": {
+    "ENGLISH": "Furniture List",
+    "CHINESE": "家具列表"
+  },
+  "CONFIRM_TO_CANCEL_BLUEPRINT": {
+    "ENGLISH": "Do you want to cancel blueprint mode?",
+    "CHINESE": "确定要取消编辑房间吗?"
+  },
+  "CONFIRM_TO_DELETE_ROOM": {
+    "ENGLISH": "Do you want to delete this room? (Total: ${0})",
+    "CHINESE": "确定要出售房间吗? (总计: ${0})"
+  },
+  "CHECKLIST_ROOM_SIZE_VALID": {
+    "ENGLISH": "The minimum room size is {0}x{1}",
+    "CHINESE": "房间最小尺寸为{0}x{1}"
+  },
+  "CHECKLIST_BUILD_A_DOOR": {
+    "ENGLISH": "Build a door",
+    "CHINESE": "建造一扇门"
+  },
+  "CHECKLIST_DOOR_VALID": {
+    "ENGLISH": "Doors at right place",
+    "CHINESE": "门位置正确"
+  },
+  "CHECKLIST_ROOM_REACHABLE": {
+    "ENGLISH": "Office doors could reach rooms",
+    "CHINESE": "任意大门可达任意房间"
+  },
+  "CHECKLIST_FURNITURE_VALID": {
+    "ENGLISH": "Furnitures at right place",
+    "CHINESE": "家具位置正确"
+  },
+  "CHECKLIST_NOT_OVERLAP_WITH_OTHER_ROOM": {
+    "ENGLISH": "Room can't overlap",
+    "CHINESE": "房间不能互相重叠"
+  },
+  "CHECKLIST_NOT_OVERLAP_WITH_OFFICE_FURNITURE": {
+    "ENGLISH": "Room can't overlap with office furniture",
+    "CHINESE": "房间不能和办公室家具重叠"
+  },
+  "CHECKLIST_ROOM_INSIDE_OFFICE": {
+    "ENGLISH": "Room can't build outside",
+    "CHINESE": "房间必须放置在建筑内"
+  },
+  "CHECKLIST_WINDOW_VALID": {
+    "ENGLISH": "Windows at right place",
+    "CHINESE": "窗户位置正确"
+  },
+  "BUY": {
+    "ENGLISH": "Buy",
+    "CHINESE": "购买"
+  },
+  "GYM": {
+    "ENGLISH": "Gym",
+    "CHINESE": "体育场"
+  },
+  "SMALL_OFFICE": {
+    "ENGLISH": "Small Office",
+    "CHINESE": "小型写字楼"
+  },
+  "BIG_OFFICE": {
+    "ENGLISH": "Big Office",
+    "CHINESE": "大型写字楼"
+  },
+  "PUT_FURNITURE_GUIDE": {
+    "ENGLISH": "Press R: rotate, E: delete",
+    "CHINESE": "按R旋转,按E删除"
+  },
+  "PICKUP_NPC_GUIDE": {
+    "ENGLISH": "Press E: delete",
+    "CHINESE": "按E删除"
+  },
+  "BLUE_PRINT_SIZE_GUIDE": {
+    "ENGLISH": "Room size {0}x{1}",
+    "CHINESE": "当前尺寸 {0}x{1}"
+  },
+  "MOVE_BLUEPRINT_GUIDE": {
+    "ENGLISH": "Press R to rotate room",
+    "CHINESE": "按R旋转房间"
+  },
+  "EMPLOYEE_LIST": {
+    "ENGLISH": "Employee List",
+    "CHINESE": "员工列表"
+  },
+  "DEVELOPER": {
+    "ENGLISH": "Developer",
+    "CHINESE": "程序"
+  },
+  "ARTIST": {
+    "ENGLISH": "Artist",
+    "CHINESE": "美术"
+  },
+  "DESIGNER": {
+    "ENGLISH": "Designer",
+    "CHINESE": "设计师"
+  },
+  "OFFICE_FURNITURE": {
+    "ENGLISH": "Office Props",
+    "CHINESE": "办公室家具"
+  },
+  "ROOM_PRICE": {
+    "ENGLISH": "${0}/Grid",
+    "CHINESE": "${0}/格子"
+  },
+  "FURNITURE_PRICE": {
+    "ENGLISH": "${0}",
+    "CHINESE": "${0}"
+  },
+  "EMPLOY_PRICE": {
+    "ENGLISH": "${0}/Day",
+    "CHINESE": "${0}/天"
+  },
+  "MONEY_NOT_ENOUGH": {
+    "ENGLISH": "Money Not Enough!",
+    "CHINESE": "您的资金不足!"
+  }
+}
